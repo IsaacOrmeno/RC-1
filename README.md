@@ -18,7 +18,7 @@ $ git clone https://github.com/IsaacOrmeno/RC-1.git
 ~~~
 
 ~~~
-$ cd RC-1
+$ cd RC-1-master
 ~~~
 ~~~
  $ python Dijkstra.py "name_file" "Start" "End" 
