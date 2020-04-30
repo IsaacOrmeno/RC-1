@@ -21,5 +21,5 @@ $ git clone https://github.com/IsaacOrmeno/RC-1.git
 $ cd RC-1
 ~~~
 ~~~
- $ python Dijkstra.py "name_file" "Start""Ent" 
+ $ python Dijkstra.py "name_file" "Start" "End" 
 ~~~
