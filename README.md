@@ -23,3 +23,6 @@ $ cd RC-1-master
 ~~~
  $ python Dijkstra.py "name_file" "Start" "End" 
 ~~~
+
+#### Importante
+Se deben tener tanto los archivos de prueba como la librería y el Script principal en la misma carpeta.
