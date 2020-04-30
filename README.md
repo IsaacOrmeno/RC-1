@@ -1,4 +1,4 @@
-## Aplicación del Algoritmo de Dijkstra Para Encontrar Un Camino Mínimo Entre Un Origen y Un Destino Dado  (EO)
+## Aplicación del Algoritmo de Dijkstra Para Encontrar Un Camino Mínimo Entre Un Origen y Un Destino Dado
 
 
 ### Acerca de este Algoritmo
